@@ -1,0 +1,65 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: 30px;
+}
+.submit-form {
+  background-color: aliceblue;
+  border-radius: 10px;
+  padding: 10px;
+  width: 400px;
+  margin: 30px;
+}
+
+.user {
+  display: flex;
+  justify-content: center;
+}
+
+.edit-form {
+  background-color: aliceblue;
+  border-radius: 10px;
+  padding: 10px;
+  width: 400px;
+  margin: 30px;
+}
+
+h4 {
+  margin-bottom: 20px;
+}
+
+.badge-danger {
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(187, 48, 48);
+}
+
+.badge-success {
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(127, 187, 48);
+}
+
+.badge-warning {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: rgb(127, 187, 48);
+}
+
+.btn-success {
+  margin-top: 10px;
+}
+
+.list {
+  background-color: aliceblue;
+  margin-top: 30px;
+  padding: 30px;
+  border-radius: 10px;
+  justify-content: center;
+  width: 90vw;
+}
+
+.btn-outline-secondary {
+  margin-left: 20px;
+  background-color: rgb(204, 216, 216);
+}
